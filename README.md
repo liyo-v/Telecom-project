@@ -1,7 +1,7 @@
 # Table of Contents
 1. What is the project about
 2. Steps undertaken in completing the project
-3. Documents for completing the project
+3. Documents Included
 4. Tools used for the project
 # 1. What is the project about?
 AtliQo is one of the leading telecom providers in India and launched its 5G plans in May 2022, along with other telecom providers.
