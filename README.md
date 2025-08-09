@@ -10,7 +10,7 @@ However, the management noticed a decline in their active users and revenue grow
 - Data preparation: The data in excel format is cleaned within excel itself and imported to Power BI.
 - Transforming the data in Power BI: The data is transformed in power query to make the required reports.
 - Design report: The transformed data is used to design report for answering the crticial business questions.
-# 3. Documents for completing the project
+# 3. Documents Included
 - 6 excel worksheets containing various information.
 - Text document explaining what data is included in the worksheets.
 - A microsoft power bi desktop file showcasing the report made to answer the business questions with the given data.
